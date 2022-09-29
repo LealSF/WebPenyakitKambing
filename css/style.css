@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.gambar img{
+    height: 350px;
+    width: auto;
+}
+.gambar_hasil img{
+    height: 200px;
+    width: auto;
+}
+.layout-login{
+    height: 500px;
+    width: 700px;
+}
+.create_user{
+    margin: auto;
+    margin-top: 100px;
+    background-color: #E6E6FA;
+    width: 800px;
+}
